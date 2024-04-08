@@ -9,9 +9,6 @@
 
 [내용입력]
 
-# 데이터 파이프라인
-
-![123 drawio](https://github.com/Ra99it/Before-Big-Data-Platform/assets/122541545/19906630-774d-4fad-bc34-764a1d18a8d9)
 
 ## 서버 정보
 
@@ -19,4 +16,10 @@
 
 ## API
 https://github.com/Ra99it/Streaming_DataPipeline
+
+# 데이터 파이프라인
+
+![123 drawio](https://github.com/Ra99it/Before-Big-Data-Platform/assets/122541545/19906630-774d-4fad-bc34-764a1d18a8d9)
+
+
 
