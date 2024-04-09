@@ -7,7 +7,7 @@
 
 ![image](https://github.com/Ra99it/Before-Big-Data-Platform/assets/122541545/222e3bc4-db4f-4978-ac3d-4fae7c72f0b7)
 
-빅데이터 플랫폼은 대량의 데이터를 수집, 저장, 관리, 분석할 수 있는 통합 시스템을 말합니다. 이러한 플랫폼은 기업이나 조직이 방대한 양의 구조화되지 않은 데이터를 효율적으로 처리하고, 이를 통해 인사이트를 얻거나 의사결정을 지원하기 위해 설계되었습니다. 빅데이터 플랫폼은 다음과 같은 주요 기능들을 포함합니다.
+**빅데이터 플랫폼**은 대량의 데이터를 수집, 저장, 관리, 분석할 수 있는 통합 시스템을 말합니다. 이러한 플랫폼은 기업이나 조직이 방대한 양의 구조화되지 않은 데이터를 효율적으로 처리하고, 이를 통해 인사이트를 얻거나 의사결정을 지원하기 위해 설계되었습니다. 빅데이터 플랫폼은 다음과 같은 주요 기능들을 포함합니다.
 
 **데이터 수집 및 통합**: 다양한 소스로부터 데이터를 수집하고, 이를 플랫폼 내에서 통합하여 관리합니다. 이 데이터는 웹사이트, 소셜 미디어, IoT(사물인터넷) 기기, 기업 내부 시스템 등 다양한 출처에서 올 수 있습니다.
 
@@ -21,8 +21,9 @@
 
 해당 Big-Data-Platform은 위와 같은 기능을 수행하고 있습니다.
 
+# 2. 데이터 파이프라인
 
-## 1.2 서버 정보
+## 2.1 서버 정보
 
 <b>1. Hadoop and Spark with Cluster </b>
 |인스턴스 이름|성능|기술|
@@ -53,14 +54,11 @@
 |airflow-redis-01|t3a.micro |Redis|
 |airflow-mysql-01|t3a.large |MYSQL|
 
-##  API
-https://github.com/Ra99it/Streaming_DataPipeline
-
-# 2. 데이터 파이프라인
+## 2.2 아키텍처
 
 ![123 drawio](https://github.com/Ra99it/Before-Big-Data-Platform/assets/122541545/19906630-774d-4fad-bc34-764a1d18a8d9)
 
-## 2.1 적용 기술 및 설명
+## 2.3 사용기술
 
 |Programming Language|Data Warehouse|Data Lake|Event Streaming|Data Engineering|
 |----|-----------|----|----|-----|
@@ -70,4 +68,5 @@ https://github.com/Ra99it/Streaming_DataPipeline
 |----|----|-----|-----|
 <img src="https://img.shields.io/badge/fluentd-0E83C8.svg?style=for-the-badge&logo=fluentd&logoColor=white"> | <img src="https://img.shields.io/badge/apachecassandra-1287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white"> | <img src="https://img.shields.io/badge/opensearch-005EB8.svg?style=for-the-badge&logo=opensearch&logoColor=white"> | <img src="https://img.shields.io/badge/apacheairflow-017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white"> |
 
+# 3.
 
