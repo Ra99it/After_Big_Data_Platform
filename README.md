@@ -66,7 +66,7 @@
 |----|-----------|----|----|-----|
 |<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">|<img src="https://img.shields.io/badge/apachehadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">|<img src="https://img.shields.io/badge/Apache Kafka-%3333333.svg?style=for-the-badge&logo=Apache Kafka&logoColor=white"> |<img src="https://img.shields.io/badge/Apache Spark-E25A1C.svg?style=for-the-badge&logo=Apache Spark&logoColor=white"> | 
 
-|Log Collector|NOSQL DB|Log Storage|Data Orchestration|
+|Log Collector|Distributed NOSQL DB|Search Engine|Data Orchestration|
 |----|----|-----|-----|
 <img src="https://img.shields.io/badge/fluentd-0E83C8.svg?style=for-the-badge&logo=fluentd&logoColor=white"> | <img src="https://img.shields.io/badge/apachecassandra-1287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white"> | <img src="https://img.shields.io/badge/opensearch-005EB8.svg?style=for-the-badge&logo=opensearch&logoColor=white"> | <img src="https://img.shields.io/badge/apacheairflow-017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white"> |
 
