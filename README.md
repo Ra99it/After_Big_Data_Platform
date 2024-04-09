@@ -114,6 +114,8 @@ Learning 단계는 아직 수행하지 않고있습니다.
 API에 대한 자세한 설명은 https://github.com/Ra99it/Streaming_DataPipeline 참고 해 주세요.
 
 ### 3.2.1 게임 이상탐지 학습을 위한 데이터 파이프라인
+![111 drawio (1)](https://github.com/Ra99it/Before-Big-Data-Platform/assets/122541545/6cac8da3-b3e5-4649-b57f-8bd5308c225f)
+
 
 
 ### 3.2.2 숙박 사이트의 사용자의 행동 분석을 위한 데이터 파이프라인
