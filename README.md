@@ -1,4 +1,4 @@
-# After_Big_Data_Platform (정리중입니다.)
+# After_Big_Data_Platform 
 
 # 1. 개요 
 
