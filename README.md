@@ -114,14 +114,15 @@ Learning 단계는 아직 수행하지 않고있습니다.
 API에 대한 자세한 설명은 https://github.com/Ra99it/Streaming_DataPipeline 참고 해 주세요.
 
 ### 3.2.1 게임 이상탐지 학습을 위한 데이터 파이프라인
-![111 drawio (1)](https://github.com/Ra99it/Before-Big-Data-Platform/assets/122541545/6cac8da3-b3e5-4649-b57f-8bd5308c225f)
-
-
+<img src="https://github.com/Ra99it/Before-Big-Data-Platform/assets/122541545/b426ca5f-0562-424a-9e7a-c6a949478653" width="90%" height="10%"/>
 
 ### 3.2.2 숙박 사이트의 사용자의 행동 분석을 위한 데이터 파이프라인
+<img src="https://github.com/Ra99it/Before-Big-Data-Platform/assets/122541545/11884b80-5333-455d-9000-126d5076c96d" width="90%" height="10%"/>
 
 ### 3.2.3 S사 L 게임의 플레이어 행동 분석 및 이상 탐지 학습을 위한 데이터 파이프라인
+<img src="https://github.com/Ra99it/Before-Big-Data-Platform/assets/122541545/9410a318-2e1e-4972-a7a3-90753e329fa9" width="90%" height="10%"/>
 
 ### 3.3.4 광고에 대한 분석 및 시청자의 분석을 위한 데이터 파이프라인
+<img src="https://github.com/Ra99it/Before-Big-Data-Platform/assets/122541545/da39044a-6618-4d49-b700-0bc777bb67c9" width="90%" height="10%"/>
 
 ## 3.3 종료
